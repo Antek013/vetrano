@@ -1,0 +1,3 @@
+api:
+    resource: ../controller/routing.yaml
+    prefix: /api
