@@ -1,0 +1,4 @@
+POST http://192.168.1.80:8000/api/signUp?email=combatantek@gmail.com&password=lol
+Accept: */*
+Cache-Control: no-cache
+###

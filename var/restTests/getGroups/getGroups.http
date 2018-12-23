@@ -1,0 +1,12 @@
+# For a quick start check out our HTTP Requests collection (Tools|HTTP Client|Open HTTP Requests Collection).
+#
+# Following HTTP Request Live Templates are available:
+# * 'gtrp' and 'gtr' create a GET request with or without query parameters;
+# * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
+# * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
+GET http://192.168.1.80:8000/api/getClients?group=1
+Accept: */*
+Cache-Control: no-cache
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpYXQiOjE1NDI3MzcwNzksImV4cCI6MTU0Mjc0MDY3OSwicm9sZXMiOlsiUk9MRV9VU0VSIl0sInVzZXJuYW1lIjoiY29tYmF0YW50ZWtAZ21haWwuY29tIn0.ks62cyzPUlh7uPdcee-pVxFAV-cAZluzv1m1cnix2GNiEvuegVkFr1Zr15EQwbH3u62v8rZWL1ykiWbZIP2lf-xgfwX2diWqfGqo4tVWjW86wk6AwQhzyOD5W9r1MBOndTLxpChbAmsqHPp892JduUHDCWRCFdqTmU_vU-RR37zdvXHuhyZpNCGpc3CWTyRblMTX9c5KsUP1OMwndKHOWUlQnEpIg6HhZB6-l_bJoi9D_73fDrZUnmtkIO0MBJsEVM1RrbnPkv2UoT4HrmSAYspPtRwDUmV_R5p96C8uV3cM4W6m1CbpcswXZ--kvCBnc-ESzLQTM6-TwAKXW2Lhvj5zpj_bIIHZLv2j2TOiINsIdyF0aAp-HmPfQbjd4m14mrrCeGgfcUmiQtGRDlLD60MUsFISRpWgevXcjOy_iix80wxLnBuPE8oO2tkvMXWHmPve6hyDSsDIj-OWmxQgNiNJc4c3q2LmRzCSPNVMTqrr9t6bnumJovhZHK5TOx8n_lkYfmK-szGfGNaHMmjoZYq93gm0lGmV48C6Y9NkD9q-HJPK4vlOabnufmOEh29LxpEGl0ZL5oXQCRlexu67SgfbSuHkllOMghEqLeYBp47KXO183YgC-FGf8XkyXy5-tmOuRWzos9QZcS1aPCnjIyaZsws8xCIarmow3cARwC8
+
+###
